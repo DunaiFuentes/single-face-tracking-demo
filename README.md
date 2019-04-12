@@ -14,6 +14,7 @@ Processing is printed in the notebook. An example of the ouput for both
 methonds is given under ``data/output``, do check it out.
 The tracker is of course faster and the fallback to face detection when
 the tracked region is lost allows for extra robustness. Look like this:
+
 ![Output sample](https://github.com/DunaiFuentes/single-face-tracking-demo/blob/master/data/output/track_my_video.gif)
 
 # How to use
